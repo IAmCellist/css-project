@@ -207,3 +207,17 @@ a {
     padding: 10px 25px;
 }
 
+.footer {
+    background: #1F2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer .text {
+    padding: 2%;
+    font-size: 18px;
+}
+
+
